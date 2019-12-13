@@ -6,7 +6,7 @@ Smart Amplifier has 2 layers: cloud and electronics. Basically you have amplifie
 
 ## Electronoics
 
-TODO
+All you need is build pre-amplifier which can communicate with i2c bus. I prefer to build our pre-builded per-amplifier bd37543fs. It's maded by default schematics from it's datasheet. This pre-amplifier is 5.1 channel and you can control volume, mute and other features.
 
 ## Gateway
 
