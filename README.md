@@ -1,5 +1,3 @@
-# smart-amplifier-user-interface
-
 Smart Amplifier has 2 layers: cloud and electronics. Basically you have amplifier with Sub-Ghz Radio communicating with Raspberry Pi so you can place Raspberry somewhere close to internet connection and amplifier can be at speakers. Only thing you have to do is plug Raspberry to electricity and internet. You can easily pair new amplifier via web user interface described in [Gateway section](https://smartamplifier.github.io/#gateway). All benefit is that you can easily control amplifier via restAPI hosted at our server so you can easily integrate 3rd party apps like [IFTTT](https://ifttt.com/).
 
 !['Block Diagram'](img/block-diagram.svg)
